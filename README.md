@@ -48,7 +48,7 @@ Running this notebook requires Python 3.5 (or higher), the Reacher environment (
 # To get started -
 
 Below are the instructions on how to get started on this project as given in the original repository.
-The original repository can be found here: https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control
+The original repository can be found here: https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control which this README.md file is based on.
 
 
 
