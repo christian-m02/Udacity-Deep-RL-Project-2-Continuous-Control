@@ -1,4 +1,4 @@
-# Provided by Udacity to run in Udacity's workspace
+# Provided by Udacity to keep connection alive during long processes when running in Udacity's workspace
 
 
 import signal
