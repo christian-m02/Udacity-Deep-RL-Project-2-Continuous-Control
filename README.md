@@ -41,7 +41,7 @@ Running this notebook requires Python 3.5 (or higher), the Reacher environment (
 - NumPy
 - PyTorch
 - Unity Machine Learning Agents Toolkit
-- OpenAI Gym
+- Matplotlib
 
 
 
