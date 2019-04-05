@@ -30,8 +30,7 @@ I have used the first version of the Unity environment of a single agent.
 The task is episodic, and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
 
 The ipython notebook `Parameter_Study.ipynb` contains the study of the hyperparameters of the DDPG Agent for performing this
-task. Two successful DDPG agents along with their respective hyperparameter settings are given in `Continuous_Control.ipynb`.
-For a discussion of the findings and assessment of the agents see the Report.pdf.
+task. As an outcome of this parameter study, two successful DDPG agents along with their respective hyperparameter settings are given in `Continuous_Control.ipynb`. For a discussion of the findings and assessment of the agents see the `Report.pdf'.
 
 
 
