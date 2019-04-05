@@ -10,8 +10,7 @@ This project is part of Udacity's Nanodegree on Deep Reinforcement Learning (htt
 
 ### Introduction
 
-For this project, I will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment which uses the Unity Machine Learning Agents Toolkit (https://github.com/Unity-Technologies/ml-agents)
-, an open-source Unity plugin.
+For this project, I will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment which uses the Unity Machine Learning Agents Toolkit (https://github.com/Unity-Technologies/ml-agents), an open-source Unity plugin.
 
 
 ![Trained Agent][image1]
@@ -22,11 +21,11 @@ Goal of the exercise is to train an agent via Reinforcement Learning to maintain
 
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
-For this project, two separate versions of the Unity environment are provided:
+For this project, two separate versions of the Unity environment are available:
 - The first version contains a single agent.
 - The second version contains 20 identical agents, each with its own copy of the environment.  
 
-I have used the single agent version of the Unity environment.
+I have used the first version of the Unity environment of a single agent.
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
 
