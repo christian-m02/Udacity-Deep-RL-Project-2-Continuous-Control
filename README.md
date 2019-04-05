@@ -67,3 +67,5 @@ The original repository can be found here: https://github.com/udacity/deep-reinf
 
 2. Place the file in the DRLND GitHub repository, in the `Udacity-Deep-RL-Project-2-Continuous-Control/` folder, and unzip (or decompress) the file. 
 
+3. Run `Parameter_Study.ipynb` for a study of the hyperparameters of the DDPG Agent and `Continuous_Control.ipynb` for two successful DDPG agents for performing this task.
+
