@@ -17,7 +17,7 @@ For this project, I will work with the [Reacher](https://github.com/Unity-Techno
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. 
 
-Goal of the exercise is to train an agent via Reinforcement Learning to maintain its position at the target location for as many time steps as possible.
+Goal of the exercise is to train an agent via Reinforcement Learning to maintain its position at the target location for as many time steps as possible. Specifically, I have chosen an Agent based on Deep Deterministic Policy Gradients (DDPG).
 
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
